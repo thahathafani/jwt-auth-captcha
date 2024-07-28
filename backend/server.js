@@ -21,8 +21,8 @@ const PORT = process.env.PORT || 8000;
 
 // Routes
 
-// const userRoutes = require('./routes/userRoutes');
-// app.use('/api/user', userRoutes);
+const userRoutes = require('./routes/userRoutes');
+app.use('/api/user', userRoutes);
 
 app.get('/', (req, res) => {
     res.send('Helloo iam here...')
