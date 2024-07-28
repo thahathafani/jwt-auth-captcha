@@ -1,0 +1,11 @@
+1. Project started by creating backend and frontend folders!
+2. Added npm to added to root --> backend --> frontend
+3. Added modules
+4. Created Sarver.js in backend
+5. Added register
+6. Added Login 
+7. Added Middleware
+8. Added userSchema
+9. Added controllers
+10.Added frontend modules
+11. Now need to add captcha 
